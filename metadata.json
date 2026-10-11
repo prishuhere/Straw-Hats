@@ -1,0 +1,10 @@
+{
+  "name": "EcoQuest - AI Sustainability Platform & Kiro Architecture Portal",
+  "description": "EcoQuest is an AI-powered personal sustainability platform helping users track and reduce energy & waste impact with real-time AI guidance, transparent CO2e calculations, missions, and an interactive Kiro technical documentation portal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
